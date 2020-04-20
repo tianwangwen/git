@@ -1,4 +1,4 @@
-git push dev
+git push --set-upstream origin dev
 
 git checkout master
 
