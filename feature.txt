@@ -1,0 +1,7 @@
+this branch from dev
+
+git push --set-upstream origin feature
+
+git checkout dev
+
+git merge feature
