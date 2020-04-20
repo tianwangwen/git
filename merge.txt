@@ -3,3 +3,13 @@ git push dev
 git checkout master
 
 git merge dev
+
+git checkout -b feature
+
+branch feature --> some change
+
+git checkout dev
+
+beanch dev --> some change
+
+git checkout feature
